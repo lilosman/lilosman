@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello, I'm Osman
 
-<!--
-**lilosman/lilosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Artificial Intelligence undergraduate**  
+🤖 Passionate about **Machine Learning, NLP, and Data Science**  
+🚀 Always learning, building, and exploring intelligent solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 What I’m working on
+- Building ML models and experimenting with real datasets  
+- Improving my skills in **NLP**, text classification & transformers  
+- Exploring algorithms and sharpening problem-solving techniques  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C++, SQL  
+- **ML & AI:** Scikit-learn, TensorFlow, PyTorch  
+- **Data:** Pandas, NumPy, Matplotlib  
+- **Tools:** Git, Jupyter, VS Code  
+
+---
+
+### 📌 Goals for 2025
+- Master **NLP** and transformer-based models  
+- Contribute to open-source AI projects  
+- Build strong ML portfolio projects  
+
+---
+
+### 📬 Contact
+Feel free to connect or reach out!
