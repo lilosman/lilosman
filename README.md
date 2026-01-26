@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Osman
 
 🎓 **Artificial Intelligence undergraduate**  
-🤖 Passionate about **Machine Learning, NLP, and Data Science**  
+🤖 Passionate about **Machine Learning,DL, NLP, and Data Science**  
 🚀 Always learning, building, and exploring intelligent solutions.
 
 ---
 
 ### 🔥 What I’m working on
-- Building ML models and experimenting with real datasets  
+- Building ML models and DL models experimenting with real datasets  
 - Improving my skills in **NLP**, text classification & transformers  
 - Exploring algorithms and sharpening problem-solving techniques  
 
@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, C++, SQL  
-- **ML & AI:** Scikit-learn, TensorFlow, PyTorch  
+- **ML & DL:** Scikit-learn, TensorFlow, PyTorch  
 - **Data:** Pandas, NumPy, Matplotlib  
 - **Tools:** Git, Jupyter, VS Code  
 
