@@ -12,6 +12,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-HuggingFace-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+
 
 - **Programming:** Python, SQL  
 - **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow  
