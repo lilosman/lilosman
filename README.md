@@ -1,32 +1,48 @@
-# 👋 Hello, I'm Osman
+# 👋 Hi, I'm Osman Ibrahim
 
-🎓 **Artificial Intelligence undergraduate**  
-🤖 Passionate about **Machine Learning,DL, NLP, and Data Science**  
-🚀 Always learning, building, and exploring intelligent solutions.
-
----
-
-### 🔥 What I’m working on
-- Building ML models and DL models experimenting with real datasets  
-- Improving my skills in **NLP**, text classification & transformers  
-- Exploring algorithms and sharpening problem-solving techniques  
+🎓 **Artificial Intelligence Undergraduate**  
+💡 Aspiring **AI / Machine Learning Engineer** with expertise in **NLP & Computer Vision (CV)**  
+🚀 Building and deploying **ML & DL models** for real-world applications.
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, C++, SQL  
-- **ML & DL:** Scikit-learn, TensorFlow, PyTorch  
+## 🏆 Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Programming:** Python, SQL  
+- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow  
+- **NLP:** Transformers, Text Classification, Embeddings  
+- **Computer Vision:** CNNs, YOLO, Image & Video Processing, DeepSORT  
 - **Data:** Pandas, NumPy, Matplotlib  
-- **Tools:** Git, Jupyter, VS Code  
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code  
 
 ---
 
-### 📌 Goals for 2025
-- Master **NLP** and transformer-based models  
-- Contribute to open-source AI projects  
-- Build strong ML portfolio projects  
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Text Classifier** | NLP project for sentiment analysis on Arabic & English datasets | Python, Transformers |
+| **Object Detection** | YOLO-based detection for images & video tracking | Python, OpenCV, DeepSORT |
+| **Image Classifier** | CNN model for multi-class image classification |  NumPy |
+| **Semantic Search / RAG System** | Retrieval-Augmented Generation system integrating a document database with a language model to answer user queries intelligently | Python, HuggingFace Transformers, FAISS |
 
 ---
 
-### 📬 Contact
-Feel free to connect or reach out!
+## 🎯 Goals
+- Master **NLP & CV with transformer-based architectures**  
+- Build **production-ready AI systems**  
+- Contribute to **open-source AI projects**  
+- Showcase a strong **AI portfolio**  
+
+---
+
+
+
+## 📬 Let's Connect
+Open to **internships, freelance opportunities, and collaborative AI projects**.  
+[LinkedIn](https://www.linkedin.com/in/osman-ibrahim-894403291/) | [Email](mailto:osmanibrahim6062@gmail.com)
